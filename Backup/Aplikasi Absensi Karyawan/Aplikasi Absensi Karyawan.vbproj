@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A6549C3E-36B8-4F85-88CC-512C7DBC29F4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Aplikasi Absensi Karyawan</AssemblyName>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Aplikasi Absensi Karyawan.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Aplikasi Absensi Karyawan.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbsenManual.Designer.vb">
+      <DependentUpon>AbsenManual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AbsenManual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbsensiKeluar.Designer.vb">
+      <DependentUpon>AbsensiKeluar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AbsensiKeluar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbsensiManual.Designer.vb">
+      <DependentUpon>AbsensiManual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AbsensiManual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbsensiMasuk.Designer.vb">
+      <DependentUpon>AbsensiMasuk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AbsensiMasuk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanAbsensi.Designer.vb">
+      <DependentUpon>LaporanAbsensi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanAbsensi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanMaster.Designer.vb">
+      <DependentUpon>LaporanMaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuUtama.Designer.vb">
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Pegawai.Designer.vb">
+      <DependentUpon>Pegawai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pegawai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetingJam.Designer.vb">
+      <DependentUpon>SetingJam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SetingJam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TidakHadir.Designer.vb">
+      <DependentUpon>TidakHadir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TidakHadir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users.Designer.vb">
+      <DependentUpon>Users.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AbsenManual.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AbsenManual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbsensiKeluar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AbsensiKeluar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbsensiManual.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AbsensiManual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbsensiMasuk.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AbsensiMasuk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanAbsensi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LaporanAbsensi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanMaster.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LaporanMaster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuUtama.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pegawai.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Pegawai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetingJam.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SetingJam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TidakHadir.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TidakHadir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Users.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

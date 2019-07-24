@@ -1,0 +1,87 @@
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.exe
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.xml
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.pdb
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Aplikasi Absensi Karyawan.exe
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Aplikasi Absensi Karyawan.pdb
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Aplikasi Absensi Karyawan.xml
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.vbprojResolveAssemblyReference.cache
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsenManual.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsensiKeluar.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsensiManual.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsensiMasuk.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.LaporanAbsensi.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.LaporanMaster.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Login.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.MenuUtama.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Resources.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Pegawai.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.SetingJam.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.TidakHadir.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Users.resources
+D:\Kumpulan Project Pemrograman\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.vbproj.GenerateResource.Cache
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.exe
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.xml
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.pdb
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Aplikasi Absensi Karyawan.exe
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Aplikasi Absensi Karyawan.pdb
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Aplikasi Absensi Karyawan.xml
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.vbprojResolveAssemblyReference.cache
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsenManual.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsensiKeluar.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsensiManual.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsensiMasuk.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.LaporanAbsensi.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.LaporanMaster.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Login.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.MenuUtama.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Resources.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Pegawai.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.SetingJam.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.TidakHadir.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Users.resources
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.vbproj.GenerateResource.Cache
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Aplikasi Absensi Karyawan.exe.config
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Interop.SAXSERIALIZELib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.vbproj.ResolveComReference.cache
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Interop.CrystalReportsDataDefModelLib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Interop.CrystalReportsReportDefModelLib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Interop.CrystalReportViewerExportLib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+H:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Interop.SAXSERIALIZELib.dll
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Aplikasi Absensi Karyawan.exe.config
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.vbproj.ResolveComReference.cache
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.exe
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.xml
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.pdb
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.vbprojResolveAssemblyReference.cache
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsenManual.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsensiKeluar.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsensiManual.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsensiMasuk.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.LaporanAbsensi.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.LaporanMaster.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Login.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.MenuUtama.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Resources.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Pegawai.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.SetingJam.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.TidakHadir.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Users.resources
+D:\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.vbproj.GenerateResource.Cache
+E:\Pemrograman\Project .NET\Aplikasi Absensi Karyawan [NEW]\Aplikasi Absensi Karyawan\bin\Debug\Aplikasi Absensi Karyawan.exe.config
+E:\Pemrograman\Project .NET\Aplikasi Absensi Karyawan [NEW]\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.vbproj.ResolveComReference.cache
+E:\Pemrograman\Project .NET\Aplikasi Absensi Karyawan [NEW]\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.exe
+E:\Pemrograman\Project .NET\Aplikasi Absensi Karyawan [NEW]\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.xml
+E:\Pemrograman\Project .NET\Aplikasi Absensi Karyawan [NEW]\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.pdb

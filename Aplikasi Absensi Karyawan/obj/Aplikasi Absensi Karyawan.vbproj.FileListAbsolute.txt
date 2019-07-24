@@ -1,0 +1,21 @@
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Aplikasi Absensi Karyawan.exe
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Aplikasi Absensi Karyawan.pdb
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\bin\Debug\Aplikasi Absensi Karyawan.xml
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\ResolveAssemblyReference.cache
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Login.resources
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Resources.resources
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Users.resources
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.vbproj.GenerateResource.Cache
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.exe
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.xml
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\Aplikasi Absensi Karyawan.pdb
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsensiMasuk.resources
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.MenuUtama.resources
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.Pegawai.resources
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.SetingJam.resources
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsensiManual.resources
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsenManual.resources
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.AbsensiKeluar.resources
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.LaporanAbsensi.resources
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.LaporanMaster.resources
+D:\Permintaan Program\Aplikasi Absensi Karyawan\Aplikasi Absensi Karyawan\obj\Debug\WindowsApplication1.TidakHadir.resources
